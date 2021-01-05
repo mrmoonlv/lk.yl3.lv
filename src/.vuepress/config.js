@@ -58,5 +58,10 @@ module.exports = {
             home: true,
             posts: false,
         }
-    }
+    },
+    plugins: {
+        '@vuepress/plugin-google-analytics': {
+            ga: 'UA-119014961-1',
+        },
+    },
 }
