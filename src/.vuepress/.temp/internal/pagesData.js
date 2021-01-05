@@ -1,0 +1,18 @@
+export const pagesData = {
+  "/qsl.html": () => import(/* webpackChunkName: "v-2f7efa88" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-2f7efa88.js").then(({ data }) => data),
+  "/_posts/2018-04-30-sveika-pasaule.html": () => import(/* webpackChunkName: "v-2fa63aa6" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-2fa63aa6.js").then(({ data }) => data),
+  "/_posts/2018-05-15-lodesanas-trenins.html": () => import(/* webpackChunkName: "v-6489a450" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-6489a450.js").then(({ data }) => data),
+  "/_posts/2018-06-07-what-is-temperature-in-my-bedroom.html": () => import(/* webpackChunkName: "v-7053a56e" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-7053a56e.js").then(({ data }) => data),
+  "/_posts/2018-06-14-barosanas-bloks.html": () => import(/* webpackChunkName: "v-2fc6dc4c" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-2fc6dc4c.js").then(({ data }) => data),
+  "/_posts/2018-09-10-ff-liepajas-lake.html": () => import(/* webpackChunkName: "v-e0dd7b06" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-e0dd7b06.js").then(({ data }) => data),
+  "/_posts/2019-02-11-iss-sstv.html": () => import(/* webpackChunkName: "v-a2074468" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-a2074468.js").then(({ data }) => data),
+  "/_posts/2019-05-12-yl3alk.html": () => import(/* webpackChunkName: "v-f6e53c20" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-f6e53c20.js").then(({ data }) => data),
+  "/_posts/2019-08-24-uzavas-baka.html": () => import(/* webpackChunkName: "v-272e0c8e" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-272e0c8e.js").then(({ data }) => data),
+  "/_posts/2019-08-28-baltic-way-30.html": () => import(/* webpackChunkName: "v-3d1c79b9" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-3d1c79b9.js").then(({ data }) => data),
+  "/_posts/2019-09-01-2qso-ao91-sat.html": () => import(/* webpackChunkName: "v-5bf317b5" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-5bf317b5.js").then(({ data }) => data),
+  "/_posts/2019-10-08-redans-wca.html": () => import(/* webpackChunkName: "v-380d3540" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-380d3540.js").then(({ data }) => data),
+  "/_posts/2020-01-15-baltic-contest.html": () => import(/* webpackChunkName: "v-f80971f6" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-f80971f6.js").then(({ data }) => data),
+  "/_posts/2020-05-13-interview-ham-radio.html": () => import(/* webpackChunkName: "v-67622256" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-67622256.js").then(({ data }) => data),
+  "/_posts/2020-07-04-ff-tosmare.html": () => import(/* webpackChunkName: "v-7711f1f5" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-7711f1f5.js").then(({ data }) => data),
+  "/404.html": () => import(/* webpackChunkName: "v-3706649a" */"/srv/lk.yl3.lv/src/.vuepress/.temp/internal/pageData/v-3706649a.js").then(({ data }) => data),
+}
