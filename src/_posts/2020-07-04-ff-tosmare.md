@@ -1,6 +1,6 @@
 ---
 title:  Tosmares dabas lieguma (YLFF-0195) aktivizācija
-date: 2020.07.04
+date: 2020-07-04
 tags:
     - Flora&Fauna
     - Portable

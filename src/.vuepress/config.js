@@ -24,7 +24,7 @@ module.exports = {
         personalInfo: {
             nickname: 'YL3LK',
             email: 'yl3lk[at]lrg[dot]lv',
-            location: 'Liepaja, Latvija',
+            location: 'Liepāja, Latvija',
             qrz:  'https://www.qrz.com/db/yl3lk',
             avatar: '/assets/images/avatar.jpg',
         },
