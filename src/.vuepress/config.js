@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'YL3LK piezīmes',
+    title: 'YL3LK',
     description: 'Kāda šķiņķa piezīmes...',
     head: [
         ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/assets/favicons/apple-touch-icon.png"}],
