@@ -6,9 +6,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src --dest docs",
-    "push": " rm -r docs && yarn build && cp src/CNAME docs/CNAME  &&git add . && git commit -m 'Push' && git push origin main "
+    "dev": "./node_modules/.bin/vuepress dev src",
+    "build": "./node_modules/.bin/vuepress build src --dest docs",
+    "push": " rm -r docs && yarn build && cp src/CNAME docs/CNAME  && git add . && git commit -m 'Push' && git push origin main "
   },
   "dependencies": {
     "vuepress": "^1.7.1",
